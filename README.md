@@ -11,7 +11,7 @@ Ah, e claro… cafeína e boa música sempre me acompanham nesse caminho ☕🎶
 
 ---
   
-<img width='300' align="right" src="https://i.ibb.co/YT4cM4VN/Gemini-Generated-Image-u7mu8wu7mu8wu7mu-removebg-preview.png"/>
+<img width='250' align="right" src="https://i.ibb.co/YT4cM4VN/Gemini-Generated-Image-u7mu8wu7mu8wu7mu-removebg-preview.png"/>
 
 ### 🛠 Tecnologias e Ferramentas: 
 
