@@ -36,8 +36,6 @@ Ah, e claro… cafeína e boa música sempre me acompanham nesse caminho ☕🎶
 
 ---
  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-
 💻 Apaixonada por **aprender, programar e criar projetos criativos**  
 
 🎮 Adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.
