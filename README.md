@@ -1,65 +1,118 @@
-<h2 align="left">👋🏽 Olá! Eu sou a Alissa.</h2>
+<h1 align="center">Alissa Sousa</h1>
 
-Atualmente me aventuro pelo universo da programação e tecnologia. Criadora oficial de bugs, quanto mais aprendo (e passo raiva), mais amo tudo isso. Tenho uma forte paixão por criar experiências que unem UX/UI Design e tecnologia para entregar soluções inovadoras e eficientes. 🎯
+<p align="center">
+  <strong>Full-Stack Developer</strong> com foco em <strong>React</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong> e <strong>NestJS</strong>.
+</p>
 
-Ah, e claro… cafeína e boa música sempre me acompanham nesse caminho ☕🎶
+<p align="center">
+  Desenvolvendo interfaces responsivas e APIs REST com autenticação, banco de dados relacional e organização modular.
+</p>
 
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<div align="center">
-  <img height="260" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanphZW5hd2xkdnI5amZ2YXgzMzNsc2xiMWdjczJtZWtqN2d4bGkwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq72gPlwox4o2n6/giphy.gif"  />
-</div>
+<hr />
 
----
+<h2>👩🏽‍💻 Sobre mim</h2>
+
+<p>
+  Sou desenvolvedora em formação com interesse em construir soluções web que unam <strong>tecnologia</strong>,
+  <strong>organização visual</strong> e <strong>boa experiência de uso</strong>.
+</p>
+
+<p>
+  Tenho focado meus estudos e projetos em <strong>front-end com React</strong> e <strong>back-end com Node.js e NestJS</strong>,
+  desenvolvendo aplicações com autenticação, CRUD completo, consumo de APIs, integração com banco de dados e estrutura modular.
+</p>
+
+<p>
+  Também gosto de explorar a interseção entre <strong>UX/UI</strong> e desenvolvimento,
+  buscando criar interfaces mais claras, funcionais e responsivas.
+</p>
+
+<hr />
+
+<h2>🛠️ Stack principal</h2>
+
+<ul>
+  <li><strong>Front-end:</strong> HTML, CSS, JavaScript, TypeScript, React</li>
+  <li><strong>Back-end:</strong> Node.js, NestJS</li>
+  <li><strong>Banco de dados:</strong> MySQL</li>
+  <li><strong>Ferramentas:</strong> Git, GitHub, Figma, Swagger</li>
+  <li><strong>Conceitos:</strong> REST APIs, autenticação com JWT, CRUD, componentização, responsividade e integração entre front-end e back-end</li>
+</ul>
+
+<hr />
+
+<h2>🚀 Projetos em destaque</h2>
+
+<ul>
+  <li>
+    <strong><a href="https://github.com/alissasousadev/personal-blog-backend">Personal Blog Backend</a></strong><br />
+    API REST desenvolvida com NestJS, TypeORM, JWT, bcrypt e Swagger, com autenticação, usuários, postagens e temas.
+  </li>
+  <br />
+  <li>
+    <strong><a href="https://github.com/alissasousadev/personal-blog-frontend">Personal Blog Frontend</a></strong><br />
+    Aplicação front-end construída com React, TypeScript e Vite para consumir a API do blog pessoal.
+  </li>
+  <br />
+  <li>
+    <strong><a href="https://github.com/alissasousadev/pharmacy-management-api">Pharmacy Management Backend</a></strong><br />
+    Backend para gerenciamento de farmácia, com foco em organização de dados, arquitetura em camadas e integração com banco relacional.
+  </li>
+  <br />
+  <li>
+    <strong><a href="https://github.com/alissasousadev/pharmacy-management-frontend">Pharmacy Management Frontend</a></strong><br />
+    Interface em React para gerenciamento de dados da aplicação de farmácia.
+  </li>
+  <br />
+  <li>
+    <strong><a href="https://github.com/alissasousadev/ecommerce-inventory-management">E-commerce Inventory Management</a></strong><br />
+    Sistema de controle de estoque para loja online, com foco em gerenciamento de produtos e operações de inventário.
+  </li>
+  <br />
   
-<img width='250' align="right" src="https://i.ibb.co/YT4cM4VN/Gemini-Generated-Image-u7mu8wu7mu8wu7mu-removebg-preview.png"/>
+</ul>
 
-### 🛠 Tecnologias e Ferramentas: 
+<hr />
+
+<h2>📫 Contato</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <a href="https://www.linkedin.com/in/alissasousa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/eualissasousa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="alissiasuelen@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
+<hr />
 
----
- 
-💻 Apaixonada por **aprender, programar e criar projetos criativos**  
+<h2>📊 Estatísticas</h2>
 
-🎮 Adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissasousadev&layout=compact&langs_count=6&theme=dracula" height="160" alt="Top languages" />
+</p>
 
-✨ Gosto de desafios que me fazem crescer como dev  
+<hr />
 
----
+<h2>✨ Objetivo</h2>
 
-📫 Você pode falar comigo pelo [Instagram](https://instagram.com/eualissasousa) ou pelo [E-mail](mailto:alissiasuelen@hotmail.com) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
----
-
-<h3 align="left">🔥 Minhas estatísticas:</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissasousadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-</div>
-
-###
+<p>
+  Meu foco é continuar evoluindo como desenvolvedora, construindo projetos que fortaleçam minha base técnica
+  em <strong>front-end</strong> e <strong>back-end</strong>, e que demonstrem minha capacidade de transformar ideias em soluções web funcionais.
+</p>
