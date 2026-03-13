@@ -53,39 +53,6 @@
 
 <hr />
 
-<h2>🚀 Projetos em destaque</h2>
-
-<ul>
-  <li>
-    <strong><a href="https://github.com/alissasousadev/personal-blog-backend">Personal Blog Backend</a></strong><br />
-    API REST desenvolvida com NestJS, TypeORM, JWT, bcrypt e Swagger, com autenticação, usuários, postagens e temas.
-  </li>
-  <br />
-  <li>
-    <strong><a href="https://github.com/alissasousadev/personal-blog-frontend">Personal Blog Frontend</a></strong><br />
-    Aplicação front-end construída com React, TypeScript e Vite para consumir a API do blog pessoal.
-  </li>
-  <br />
-  <li>
-    <strong><a href="https://github.com/alissasousadev/pharmacy-management-api">Pharmacy Management Backend</a></strong><br />
-    Backend para gerenciamento de farmácia, com foco em organização de dados, arquitetura em camadas e integração com banco relacional.
-  </li>
-  <br />
-  <li>
-    <strong><a href="https://github.com/alissasousadev/pharmacy-management-frontend">Pharmacy Management Frontend</a></strong><br />
-    Interface em React para gerenciamento de dados da aplicação de farmácia.
-  </li>
-  <br />
-  <li>
-    <strong><a href="https://github.com/alissasousadev/ecommerce-inventory-management">E-commerce Inventory Management</a></strong><br />
-    Sistema de controle de estoque para loja online, com foco em gerenciamento de produtos e operações de inventário.
-  </li>
-  <br />
-  
-</ul>
-
-<hr />
-
 <h2>📫 Contato</h2>
 
 <div align="left">
