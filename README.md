@@ -53,9 +53,16 @@
 
 <hr />
 
-<h2>📫 Contato</h2>
+<h2>📊 Estatísticas</h2>
 
-<div align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissasousadev&layout=compact&langs_count=6&theme=dracula" height="160" alt="Top languages" />
+</p>
+<hr />
+
+<h2 align="center"> Contato</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/alissasousa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -67,19 +74,3 @@
   </a>
 </div>
 
-<hr />
-
-<h2>📊 Estatísticas</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissasousadev&layout=compact&langs_count=6&theme=dracula" height="160" alt="Top languages" />
-</p>
-
-<hr />
-
-<h2>✨ Objetivo</h2>
-
-<p>
-  Meu foco é continuar evoluindo como desenvolvedora, construindo projetos que fortaleçam minha base técnica
-  em <strong>front-end</strong> e <strong>back-end</strong>, e que demonstrem minha capacidade de transformar ideias em soluções web funcionais.
-</p>
